@@ -3,10 +3,7 @@
 
 ## Live Demo
 
-```link
-https://webnest-rotar-hxwtrqc9b-pruthi-shivins-projects.vercel.app/
-
-```
+[Clickable Text]https://webnest-rotar-hxwtrqc9b-pruthi-shivins-projects.vercel.app/
 
 ---
 
@@ -52,7 +49,7 @@ git clone https://github.com/pruthi-shivin/Webnest_RotarAI
 Navigate into the project folder:
 
 ```bash
-cd rotar-ai
+cd Webnest_RotarAI
 ```
 
 Install dependencies:
