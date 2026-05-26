@@ -3,7 +3,7 @@
 
 ## Live Demo
 
-[Clickable Text]https://webnest-rotar-hxwtrqc9b-pruthi-shivins-projects.vercel.app/
+https://webnest-rotar-hxwtrqc9b-pruthi-shivins-projects.vercel.app/
 
 ---
 
